@@ -1,0 +1,193 @@
+/*
+ ** home.html (F_html)
+*/
+*
+{
+	margin				: 0;
+	padding				: 0;
+	box-sizing			: border-box;
+}
+
+a
+{
+	text-decoration : none;
+}
+
+div#header
+{
+	width            : 100%;
+	height           : 50px;
+	background-color : #2c3e50;
+	margin           : 0 auto;
+}
+
+.logo
+{
+	float			: left;
+	margin-top		: 12px;
+	margin-left		: 10px;
+}
+
+.logo a
+{
+	font-size		: 1.3em;
+	color			: #7af
+}
+
+.logo a span
+{
+	font-weight		: 350;
+}
+
+a.mobile
+{
+	display			: block;
+	color			: #fff;
+	background-color: #000;
+	text-align		: center;
+	padding			: 7px;
+}
+
+a.mobile:active
+{
+	background-color: #4a4a4a;
+}
+
+div#container
+{
+	width   : 100%;
+	margin  : 0 auto;
+}
+
+.sidebar
+{
+	width              : 250px;
+	height             : 100%;
+	background-color   : #171717;
+	float              : left;
+}
+
+ul#nav
+{
+
+}
+
+ul#nav li
+{
+	list-style         : none;
+}
+
+ul#nav li a
+{
+	color              : #ccc;
+	font-size          : 0.9em;
+	display            : block;
+	padding            : 9px;
+	border-bottom      : solid 1px #0A0A0A;
+	-webkit-transition : 0.2s;
+	-moz-transition    : 0.2s;
+	-o-transition      : 0.2s;
+	transition         : 0.2s;
+}
+
+ul#nav li a.selected
+{
+	cursor				: pointer;
+	background-color	: #000000;
+	color				: #2980b9;
+}
+
+ul#nav li a:hover
+{
+	cursor				: pointer;
+	margin-left			: 15px;
+	background-color	: #2980b9;
+	color				: #fff;
+	box-shadow			: 5px 5px 5px 5px #000;
+	text-shadow			: 5px  5px  5px skyblue;
+}
+
+.content
+{
+	width				: auto;
+	margin-left			: 250px;
+	height				: 100%;
+	background-color	: #96a5a6;
+	padding				: 15px;
+	background-image	: url("../images/wtc.png");
+}
+
+.content h1
+{
+	color				: #545560;
+	background-color	: rgba(0, 0, 0, 0.1);;
+	font-size			: 3.5em;
+	border-bottom		: 3px #eee;
+	box-shadow			: 5px 5px 5px 5px #000;
+	border-radius		: 7px 7px 7px 7px;
+}
+
+.content h2
+{
+	color				: #545564;
+	padding-left		: 3px;
+	font-size			: 2.0em;
+	padding-top			: 15px;
+}
+.content h3
+{
+	color				: #545567;
+}
+
+div#box
+{
+	margin-top			: 10px;
+	background-color	: #2980b9;
+	border-radius		: 15px 15px 15px 15px;
+}
+
+div#box .box-top
+{
+	color				: #fff;
+	text-shadow			: 0px  0px  5px #fff;
+	padding				: 5px;
+	background-color	: #2980b9;
+	padding-left		: 15px;
+	font-weight			: 300;
+	border-radius		: 20px 20px 20px 20px;
+	text-align			: center;
+}
+
+div#box #_42
+{	
+	margin-top			: 45px;
+}
+
+div#box .box-body
+{
+	border-radius		: 20px 20px 20px 20px;
+	padding				: 15px;
+	background-color	: #fff;
+	color				: #333;
+}
+
+
+/*
+ ** index.html (F_root)
+*/
+
+h4
+{
+	color				: #fff;
+	text-align			: center;
+	font-size			: 90px;
+	font-family: Papyrus, fantasy;
+}
+
+.H_wrapper
+{
+	width				: 100%;
+	height				: 100%;
+	background-color	: #737D7D;
+	background-image	: url('../images/car.jpg');
+}

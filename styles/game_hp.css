@@ -1,0 +1,184 @@
+body
+{
+	background-image	: url('../images/theW.jpeg');
+}
+
+h1
+{
+	color				: #000;
+	text-shadow			: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+	text-align			: center;
+	font-size			: 90px ;
+}
+
+.page #FB
+{
+	width				: 500px;
+	height				: 75px;
+	background-color	: #00001a;
+	color				: #fff;
+	text-align			: center;
+	box-shadow			: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+	text-shadow			: 5px  5px  5px ;
+	font-size			: 50px;
+	font-family			: Papyrus, fantasy;
+	border-radius		: 15px 15px 15px 15px;
+	margin-bottom		: 5px;
+}
+
+.page #NMS
+{
+	
+	width				: 500px;
+	height				: 75px;
+	background-color	: #00001a;
+	color				: #fff;
+	text-align			: center;
+	box-shadow			: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+	text-shadow			: 5px  5px  5px ;
+	font-size			: 50px;
+	font-family			: Papyrus, fantasy;
+	border-radius		: 15px 15px 15px 15px;
+	margin-bottom		: 5px;
+
+}
+
+.page #PS
+{
+	
+	width				: 500px;
+	height				: 75px;
+	background-color	: #00001a;
+	color				: #fff;
+	text-align			: center;
+	box-shadow			: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+	text-shadow			: 5px  5px  5px ;
+	font-size			: 50px;
+	font-family			: Papyrus, fantasy;
+	border-radius		: 15px 15px 15px 15px;
+	margin-bottom		: 5px;
+
+}
+
+.page #bat
+{
+	font-size: 20px;
+}
+
+.page #TA
+{
+	
+	width				: 500px;
+	height				: 75px;
+	background-color	: #00001a;
+	color				: #fff;
+	text-align			: center;
+	box-shadow			: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+	text-shadow			: 5px  5px  5px ;
+	font-size			: 50px;
+	font-family			: Papyrus, fantasy;
+	border-radius		: 15px 15px 15px 15px;
+	margin-bottom		: 5px;
+
+}
+
+.page #TR
+{
+	
+	width				: 500px;
+	height				: 75px;
+	background-color	: #00001a;
+	color				: #fff;
+	text-align			: center;
+	box-shadow			: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+	text-shadow			: 5px  5px  5px ;
+	font-size			: 50px;
+	font-family			: Papyrus, fantasy;
+	border-radius		: 15px 15px 15px 15px;
+	margin-bottom		: 5px;
+
+}
+
+.page #TW
+{
+	
+	width				: 500px;
+	height				: 75px;
+	background-color	: #00001a;
+	color				: #fff;
+	text-align			: center;
+	box-shadow			: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+	text-shadow			: 5px  5px  5px ;
+	font-size			: 50px;
+	font-family			: Papyrus, fantasy;
+	border-radius		: 15px 15px 15px 15px;
+	margin-bottom		: 5px;
+
+}
+
+.page #TWS
+{
+	
+	width				: 500px;
+	height				: 75px;
+	background-color	: #00001a;
+	color				: #fff;
+	text-align			: center;
+	box-shadow			: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+	text-shadow			: 5px  5px  5px ;
+	font-size			: 50px;
+	font-family			: Papyrus, fantasy;
+	border-radius		: 15px 15px 15px 15px;
+	margin-bottom		: 5px;
+
+}
+
+.page #PP
+{
+	
+	width				: 500px;
+	height				: 75px;
+	background-color	: #00001a;
+	color				: #fff;
+	text-align			: center;
+	box-shadow			: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+	text-shadow			: 5px  5px  5px ;
+	font-size			: 50px;
+	font-family			: Papyrus, fantasy;
+	border-radius		: 15px 15px 15px 15px;
+	margin-bottom		: 5px;
+
+}
+
+.page #FD
+{
+	
+	width				: 500px;
+	height				: 75px;
+	background-color	: #00001a;
+	color				: #fff;
+	text-align			: center;
+	box-shadow			: -1px 0 #fff, 0 1px #fff, 1px 0 #fff, 0 -1px #fff;
+	text-shadow			: 5px  5px  5px ;
+	font-size			: 50px;
+	font-family			: Papyrus, fantasy;
+	border-radius		: 15px 15px 15px 15px;
+	margin-bottom		: 5px;
+
+}
+
+.page a :hover
+{
+	cursor				: wait;
+	margin-left			: 15px;
+}
+
+ul#nav li a:hover
+{
+	cursor				: pointer;
+	margin-left			: 15px;
+	background-color	: #2980b9;
+	color				: #fff;
+	box-shadow			: 5px 5px 5px 5px #000;
+	text-shadow			: 5px  5px  5px skyblue;
+}

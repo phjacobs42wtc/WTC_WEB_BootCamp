@@ -1,0 +1,39 @@
+<!DOCUMENT html>
+<html>
+  <head>
+    <title>Tank Game</title>
+    <meta charset="utf-8"/>
+    <style>
+      body {
+        margin: 0;
+      }
+      #myCanvas {
+        background: gray;
+      }
+      .score-layer,
+      #total-layer {
+        opacity: .3;
+        color: #FFB900;
+        font-weight: bold;
+        border: 1px solid #FFB900;
+        border-radius: 20px;
+        position: absolute;
+        padding: 5px;
+      }
+      #total-layer {
+        right: 20px;
+        top: 20px;
+        padding: 5px 10px;
+      }
+    </style>
+    <script type="text/javascript" src="require.js" data-main="main"></script>
+  </head>
+  <body>
+    <canvas id="myCanvas">
+      Your browser not support Canvas!
+    </canvas>
+    <div id="total-layer">
+      0
+    </div>
+  </body>
+</html>
